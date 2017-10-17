@@ -2,29 +2,29 @@
 <metadata modelVersion="1.1.0">
   <groupId>com.github.snakeice</groupId>
   <artifactId>com.github.snakeice.mongo</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.2-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20171017.105951</timestamp>
+      <timestamp>20171017.112048</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20171017105951</lastUpdated>
+    <lastUpdated>20171017112048</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.0.0-20171017.105951-1</value>
-        <updated>20171017105951</updated>
+        <value>1.0.2-20171017.112048-1</value>
+        <updated>20171017112048</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0.0-20171017.105951-1</value>
-        <updated>20171017105951</updated>
+        <value>1.0.2-20171017.112048-1</value>
+        <updated>20171017112048</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>1.0.0-20171017.105951-1</value>
-        <updated>20171017105951</updated>
+        <value>1.0.2-20171017.112048-1</value>
+        <updated>20171017112048</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
