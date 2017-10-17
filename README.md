@@ -1,7 +1,7 @@
 # mvn-repo
 Embedded
 
-```
+```XML
         <dependency>
             <groupId>com.github.snakeice</groupId>
             <artifactId>mongo</artifactId>
